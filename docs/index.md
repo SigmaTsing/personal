@@ -14,7 +14,7 @@ I'm actively seeking Ph.D. chances in Fall 2024. Please check my [CV](https://dr
 
 ## Publications
 
-- Yanbo Xu, **Shangqing Xu**, Manav Ramprasad, Alexey Tumanov, Chao Zhang, TransEHR: Self-Supervised Transformer for Clinical Time Series Data, under review.
+- Yanbo Xu\*, **Shangqing Xu**\*, Manav Ramprasad, Alexey Tumanov, Chao Zhang, TransEHR: Self-Supervised Transformer for Clinical Time Series Data, under review.
 
 - **Shangqing Xu**, Wentao Han, End-to-end Code Parallelization by Pre-trained Neural Language Models, Tsinghua University Graduate Thesis
 
