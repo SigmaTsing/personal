@@ -6,19 +6,23 @@ I'm a second-year Master's student of Computational Science and Engineering at G
 
 My ultimate research goal is to build **self-evolving AI** that can serve as active learner and make interactions with human and real world efficiently. My primary research focuses on **machine learning** and real-world **NLP** tasks:
 
-- **Data-efficient ML with self-supervision**, ML4H 2023 (under review)
-- **Large language models (LLMs) with external guidance**, in progress!
+- **Data-efficient ML with self-supervision**, [ML4H 2023](https://proceedings.mlr.press/v225/xu23a/xu23a.pdf)
+- **Large language models (LLMs) with external guidance** [Arxiv preprint](https://arxiv.org/abs/2401.06301)
 - **ML theory**, [IJCNN 2020](https://ieeexplore.ieee.org/document/9207493)
 
 I'm actively seeking Ph.D. chances in Fall 2024. Please check my [CV](https://drive.google.com/file/d/1jozNuglyS4b8L970kuwvelUjSZBm9yHo/view?usp=share_link) or [LinkedIn](https://www.linkedin.com/in/shangqing-xu-08735a258/) if you are interested in me!
 
 ## Publications
 
-- Yanbo Xu\*, **Shangqing Xu**\*, Manav Ramprasad, Alexey Tumanov, Chao Zhang, TransEHR: Self-Supervised Transformer for Clinical Time Series Data, under review.
+- Xu, Shangqing and Chao Zhang. Misconfidence-based Demonstration Selection for LLM In-Context Learning. arXiv preprint arXiv:2401.06301 (2024).
 
-- **Shangqing Xu**, Wentao Han, End-to-end Code Parallelization by Pre-trained Neural Language Models, Tsinghua University Graduate Thesis
+- Yanbo Xu\*, **Shangqing Xu**\*, Manav Ramprasad, Alexey Tumanov, Chao Zhang, TransEHR: Self-Supervised Transformer for Clinical Time Series Data, Machine Learning for Health (ML4H, Proceedings Track), 2023.
 
 - Zhihan Li, Youjian Zhao, Haowen Xu, Wenxiao Chen, **Shangqing Xu**, Yilin Li and Dan Pei. Unsupervised Clustering through Gaussian Mixture Variational AutoEncoder with Non-Reparameterized Variational Inference and Std Annealing. 2020 International Joint Conference on Neural Networks (IJCNN).
+
+## Other Papers
+
+- **Shangqing Xu**, End-to-end Code Parallelization by Pre-trained Neural Language Models, Tsinghua University Graduate Thesis
 
 ## Misc
 
